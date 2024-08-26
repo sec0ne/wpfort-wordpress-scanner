@@ -1,6 +1,6 @@
 # WPFort: The Ultimate WordPress Scanner & Security Solution for 2024
 
-![WPFort - Advanced WordPress Scanner and Security Tool] ()![WPFort-social-media (1)](https://github.com/user-attachments/assets/1a017a5c-dbfb-468d-a520-80ec339c75ef)
+(https://github.com/user-attachments/assets/1a017a5c-dbfb-468d-a520-80ec339c75ef)
 
 
 ## Elevate Your WordPress Security with the Most Powerful WP Scanner Available
