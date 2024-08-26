@@ -1,6 +1,7 @@
 # WPFort: The Ultimate WordPress Scanner & Security Solution for 2024
 
-(https://github.com/sec1-charlie/wordpress-scanner/blob/main/WPFort-wordpress-scanner.jpg)
+![WPFort - Advanced WordPress Scanner and Security Tool](https://github.com/sec1-charlie/wordpress-scanner/blob/main/WPFort-wordpress-scanner.jpg)
+
 
 ## Elevate Your WordPress Security with the Most Powerful WP Scanner Available
 
@@ -36,7 +37,7 @@ Is your WordPress site a ticking time bomb of vulnerabilities? Don't let hackers
 
 ### Manual Installation for Advanced Users
 
-1. Download the WPFort plugin ZIP file from [our official website](https://wpfort.com/download)
+1. Download the WPFort plugin ZIP file from [our official website](https://sec1.io/sec1wpfort/)
 2. Upload the ZIP to your WordPress site via Plugins > Add New > Upload Plugin
 3. Activate the plugin and complete the setup process
 
@@ -63,24 +64,19 @@ Is your WordPress site a ticking time bomb of vulnerabilities? Don't let hackers
 
 ## 🗣️ What Security Experts Say About WPFort
 
-> "WPFort goes beyond what tools like WPScan offer. It's a complete WordPress security solution that I recommend to all my clients." - **Jane Doe, WordPress Security Consultant**
+> "WPFort has been a game-changer for our WordPress security. Since implementing their solution, we’ve seen a 98% reduction in security incidents." - **CIO, world's leading online visa company**
 
-> "After switching from basic WordPress scanners to WPFort, we've seen a 98% reduction in successful hack attempts across our client sites." - **John Smith, CEO of WebSafe Agency**
+> "The peace of mind WPFort provides is invaluable. Their real-time threat intelligence has protected us from several zero-day vulnerabilities." - **CISO, leading lending company**
 
-## 🏆 Awards and Recognition
-
-- 🥇 Best WordPress Security Scanner 2024 - WP Awards
-- 🏅 Top Rated WordPress Security Tool - WordPress.org
-- 🎖️ Excellence in Web Application Security - InfoSec Conference 2023
 
 ## 📚 Resources and Support
 
-- [Comprehensive WordPress Security Documentation](https://docs.wpfort.com)
-- [Video Tutorials: Mastering Your WordPress Scanner](https://wpfort.com/tutorials)
-- [WordPress Security Blog](https://wpfort.com/blog)
-- [Community Forums: Discuss Advanced WordPress Scanning Techniques](https://community.wpfort.com)
+- [Comprehensive WordPress Security Documentation](https://sec1.io/sec1wpfort/)
+- [Video Tutorials: Mastering Your WordPress Scanner](mailto:support@sec1.io)
+- [WordPress Security Blog](https://sec1.io/blog/)
+- [Community Forums: Discuss Advanced WordPress Scanning Techniques](https://sec1.io/contact-us/)
 
-Need expert help with your WordPress security scan? Our professionals are available 24/7. [Contact Support](mailto:support@wpfort.com)
+Need expert help with your WordPress security scan? Our professionals are available 24/7. [Contact Support](mailto:support@sec1.io)
 
 ## 🔒 Our Commitment to Your WordPress Site's Privacy
 
@@ -92,6 +88,6 @@ WPFort operates with military-grade encryption and adheres to GDPR, CCPA, and ot
 
 Don't settle for basic WordPress scanners. Protect your digital assets now with WPFort - the ultimate WordPress security solution.
 
-[Start Your Free WordPress Security Scan](https://wpfort.com/free-scan) | [View WPFort Pricing Plans](https://wpfort.com/pricing)
+[Start Your Free WordPress Security Scan](https://sec1.io/sec1wpfort/) | [View WPFort Pricing Plans](https://sec1.io/)
 
 ***WPFort - Because Your WordPress Security Deserves More Than Just a Basic Scanner***
