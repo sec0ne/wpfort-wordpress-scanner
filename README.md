@@ -88,6 +88,6 @@ WPFort operates with military-grade encryption and adheres to GDPR, CCPA, and ot
 
 Don't settle for basic WordPress scanners. Protect your digital assets now with WPFort - the ultimate WordPress security solution.
 
-[Start Your Free WordPress Security Scan](https://sec1.io/sec1wpfort/) | [View WPFort Pricing Plans](https://sec1.io/)
+[Start Your Free WordPress Security Scan](https://sec1.io/sec1wpfort/) | [View WPFort Pricing Plans](https://sec1.io/book-a-demo/)
 
 ***WPFort - Because Your WordPress Security Deserves More Than Just a Basic Scanner***
